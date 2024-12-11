@@ -2,7 +2,7 @@
 
 This repository explores the fascinating intersection of natural language processing and computer vision, leveraging state-of-the-art tools like OpenAI's DALL-E and Hugging Face's Transformers and Stable Diffusion. 
 
-**Feature:**
+# Key Features:
 
 **DALL-E Integration:** Demonstrates how to generate vibrant visuals from textual descriptions using OpenAI's DALL-E.
 
